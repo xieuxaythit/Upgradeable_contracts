@@ -1,0 +1,11 @@
+#secret file
+.secret.json
+
+#Node modules
+node_modules
+
+#builds
+builds
+
+#networks
+.openzeppelin
